@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development <br>and I am using node JS in backend development<br>🌱 I’m currently learning node js<br>💬 Ask me about frontend related questions and you can also ask some backend related questions<br>⚡ Fun fact i am fast but smart
+🔭 I’m currently working on fronted development <br> <br>🌱 I’m currently learning node js<br>💬 Ask me about frontend related questions and you can also ask some backend related questions<br>⚡ Fun fact i am fast but smart
 
 
 # 💻 Tech Stack:
