@@ -6,45 +6,50 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ammarthedeveloper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarthedeveloper" alt="ammarthedeveloper" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarthedeveloper" alt="ammarthedeveloper" /></a> </p>-->
 
+### About Me
 
+- 🔭 I’m currently learning DSA.
+- 💬 Ask me about mern stack **HTML, CSS, Javascript, Bootstrap, Tailwind CSS, NodeJs, MongoDB, ReactJs, Next.JS, MYSQL, Express.js, React Native, C Programming , C++**
+- 📫 How to reach me [ammarthedeveloper@gmail.com]("mailto:ammarthedeveloper@gmail.com") or [LinkedIn](https://www.linkedin.com/in/ammar-ansari-390ba1278/)
+- 💼 [My Resume](resume.pdf)
+---
 
-- 🔭 I’m currently working on **Mern Stack**
+### Skills
 
-- 👯 I’m looking to collaborate on **Mern Stack Web Development**
+- **Programming Languages:** Java (Competitive Programming), Python, JavaScript, C, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Next.JS
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub
 
-- 🤝 I’m looking for help with **Next js**
+---
 
-- 🌱 I’m currently learning **React js Redux**
+### Projects
 
-- 👨‍💻 All of my projects are available at [https://ammarthedeveloper.github.io/Ammar-Official](https://ammarthedeveloper.github.io/Ammar-Official)
+1. **Blog Application**
+    - Description: Fullstack blog application, Implemented  JWT Authentication, Forget Password, Account Managemenet user's can change their name or password or profileImage, Hashing         password for security, users can comment and manage their comment.
+    -  [Live](https://main--blogify-ammarthedeveloper.netlify.app/)
+    -  [Frontend](https://github.com/AmmarTheDeveloper/Blogify-Frontend)
+    -  [Backend](https://github.com/AmmarTheDeveloper/Blogify-Backend)
+  
+---
 
-- 💬 Ask me about mern stack **HTML , CSS , Javascript , NodeJs , MongoDB , ReactJs , MYSQL , Express.js , React Native , C Programming , C++**
-
-- 📫 How to reach me **ammarthedeveloper@gmail.com**
-
-- ⚡ Fun fact **I'am good at using AI and gOOgling**
+### Connect with Me
 
 <div>
-<!-- <a href="https://twitter.com/AmmarTheDeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
+<a href="https://x.com/AnsariAmmar01" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ammar-ansari-390ba1278/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="https://github.com/AmmarTheDeveloper" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
-<a href="https://instagram.com/ammaransari7159" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/ammarthedeveloper/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:**ammarthedeveloper@gmail.com**">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ammar-ansari-390ba1278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ammar-ansari-390ba1278/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100091793160200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091793160200" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ammaransari7159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ammaransari7159/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -95,5 +100,5 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarTheDeveloper&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarTheDeveloper&theme=react-dark"/>
+<!-- <h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarTheDeveloper&theme=react-dark"/> -->
