@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🔭 I’m currently learning DSA.
+- 🔭 I’m currently learning Java.
 - 💬 Ask me about mern stack **HTML, CSS, Javascript, Bootstrap, Tailwind CSS, NodeJs, MongoDB, ReactJs, Next.JS, MYSQL, Express.js, React Native, C Programming , C++**
 - 📫 How to reach me [ammarthedeveloper@gmail.com]("mailto:ammarthedeveloper@gmail.com") or [LinkedIn](https://www.linkedin.com/in/ammar-ansari-390ba1278/)
 - 💼 [My Resume](resume.pdf)
