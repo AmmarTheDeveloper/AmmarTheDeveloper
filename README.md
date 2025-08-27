@@ -11,7 +11,7 @@
 ### About Me
 
 - 🔭 I’m currently learning Java.
-- 💬 Ask me about mern stack **HTML, CSS, Javascript, Bootstrap, Tailwind CSS, NodeJs, MongoDB, ReactJs, Next.JS, MYSQL, Express.js, React Native, C Programming , C++**
+- 💬 Ask me about mern stack **Java, JDBC, Servlet, JSP, Hibernate, Spring Core, Spring ORM, Spring MVC, Spring Boot, HTML, CSS, Javascript, Bootstrap, Tailwind CSS, NodeJs, MongoDB, ReactJs, Next.JS, MYSQL, Express.js, React Native, C Programming , C++**
 - 📫 How to reach me [ammarthedeveloper@gmail.com]("mailto:ammarthedeveloper@gmail.com") or [LinkedIn](https://www.linkedin.com/in/ammar-ansari-390ba1278/)
 - 💼 [My Resume](resume.pdf)
 ---
@@ -19,7 +19,7 @@
 ### Skills
 
 - **Programming Languages:** Java (Competitive Programming), Python, JavaScript, C, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Next.JS
+- **Frameworks & Libraries:** React, Node.js, Express, Next.JS, Spring Core, Spring ORM, Spring MVC, Spring Boot, Hibernate, Servlet, JSP, JDBC
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub
 
