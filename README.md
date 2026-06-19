@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ammar Ansari</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A passionate Fullstack Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarthedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ammarthedeveloper" /> </p>
 
@@ -10,8 +10,8 @@
 
 ### About Me
 
-- 🔭 I’m currently learning Java.
-- 💬 Ask me about mern stack **Java, JDBC, Servlet, JSP, Hibernate, Spring Core, Spring ORM, Spring MVC, Spring Boot, HTML, CSS, Javascript, Bootstrap, Tailwind CSS, NodeJs, MongoDB, ReactJs, Next.JS, MYSQL, Express.js, React Native, C Programming , C++**
+- 🔭 I’m currently learning System Design.
+- 💬 Ask me about **Java Fullstack Development, Mern Stack & System Design.**
 - 📫 How to reach me [ammarthedeveloper@gmail.com]("mailto:ammarthedeveloper@gmail.com") or [LinkedIn](https://www.linkedin.com/in/ammar-ansari-390ba1278/)
 - 💼 [My Resume](resume.pdf)
 ---
@@ -19,19 +19,18 @@
 ### Skills
 
 - **Programming Languages:** Java (Competitive Programming), Python, JavaScript, C, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Next.JS, Spring Core, Spring ORM, Spring MVC, Spring Boot, Hibernate, Servlet, JSP, JDBC
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub
+- **Backend:** Spring Boot, Spring Security, Hibernate, JPA, Node.js, Express.js, REST APIs
+- **Frontend:**  React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn/UI
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms:** Microsoft Azure, Git, Github, Postman, Vercel, Docker
 
 ---
 
 ### Projects
 
-1. **Blog Application**
-    - Description: Fullstack blog application, Implemented  JWT Authentication, Forget Password, Account Managemenet user's can change their name or password or profileImage, Hashing         password for security, users can comment and manage their comment.
-    -  [Live](https://main--blogify-ammarthedeveloper.netlify.app/)
-    -  [Frontend](https://github.com/AmmarTheDeveloper/Blogify-Frontend)
-    -  [Backend](https://github.com/AmmarTheDeveloper/Blogify-Backend)
+1. **ByteBlog**
+    - Description: Fullstack blog application, Implemented  JWT Authentication, OTP Based Forget Password, Account Managemenet user's can change their name or password or profileImage, Hashing password for security, users can comment and manage their comment.
+    -  [Live](https://fullstack-blog-application.vercel.app/)
   
 ---
 
