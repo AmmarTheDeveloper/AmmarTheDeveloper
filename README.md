@@ -13,7 +13,7 @@
 - 🔭 I’m currently learning System Design.
 - 💬 Ask me about **Java Fullstack Development, Mern Stack & System Design.**
 - 📫 How to reach me [ammarthedeveloper@gmail.com]("mailto:ammarthedeveloper@gmail.com") or [LinkedIn](https://www.linkedin.com/in/ammar-ansari-390ba1278/)
-- 💼 [My Resume](resume.pdf)
+- 💼 [My Resume](Ammar_Resume.pdf)
 ---
 
 ### Skills
